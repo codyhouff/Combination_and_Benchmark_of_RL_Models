@@ -1,4 +1,5 @@
 # Combination_and_Benchmark_of_RL_Models
+Check out the pdf
 
 # Motivation
 Atari games have been a long-standing benchmark in the reinforcement learning (RL) community for the past decade. This benchmark was proposed to test general competency
